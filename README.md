@@ -4,7 +4,7 @@
 <br><br>
 Связаться со мной:
 <div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-m?style=social&logo=telegram&label=Viktoriya_Klim&link=mailto%3Aklimof_v%40mail.ru" alt="Telegram Badge"/> 
+  <img src="https://img.shields.io/badge/Telegram-m?style=social&logo=telegram&label=Viktoriya_Klim&link=https%3A%2F%2Ft.me%2FViktoriya_Klim" alt="Telegram Badge"/> 
   <br>
   <img src="https://img.shields.io/badge/Email-q?style=social&label=klimof_v%40mail.ru&link=mailto%3Aklimof_v%40mail.ru" alt="Mail.ru Badge"/>
 </div>
