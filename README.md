@@ -3,11 +3,14 @@
 Меня зовут Вика, я Java-разработчик в Санкт-Петербурге.
 <br><br>
 Связаться со мной:
-<div id="badges">
+<br><br>
+<a href="https://t.me/Viktoriya_Klim">
   <img src="https://img.shields.io/badge/Telegram-m?style=social&logo=telegram&label=Viktoriya_Klim&link=https%3A%2F%2Ft.me%2FViktoriya_Klim" alt="Telegram Badge"/> 
+</a>
   <br>
+<a href="mailto:klimof_v@mail.ru">
   <img src="https://img.shields.io/badge/Email-q?style=social&label=klimof_v%40mail.ru&link=mailto%3Aklimof_v%40mail.ru" alt="Mail.ru Badge"/>
-</div>
+</a>
 
 ---
 
@@ -43,10 +46,13 @@
 Гарантирую быструю обучаемость, порядочность и исполнительность.
 Если вы можете дать мне рекомендацию в поиске работы - буду до глубины души признательна :)
 <br><br>👇<br><br>
+<a href="https://t.me/Viktoriya_Klim">
 <img src="https://img.shields.io/badge/Telegram-t?style=social&logo=Telegram&link=https%3A%2F%2Ft.me%2FViktoriya_Klim" alt="Telegram Badge"/>
+</a>
 <br>
+<a href="mailto:klimof_v@mail.ru">
 <img src="https://img.shields.io/badge/Mail.ru-m?style=social&label=%40&labelColor=blue&color=white&link=mailto%3Aklimof_v%40mail.ru" alt="Mail.ru Badge"/>
-<div/>
+</a>
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=vikki-kli&style=flat-square&color=blue" alt=""/>
