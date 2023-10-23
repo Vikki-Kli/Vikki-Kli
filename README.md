@@ -15,13 +15,10 @@
 ---
 
 Пишу чистый код:
-- [Share it](https://github.com/Vikki-Kli/Shareit) - REST приложение для аренды вещей. Классическое приложение со Spring Boot и Hibernate.
-- [Filmorate](https://github.com/Vikki-Kli/Filmorate) - REST приложение для создания базы фильмов. БД реализована в двух вариантах: PostgreSQL+JDBC и хранение в памяти.
-- [Conscience](https://github.com/Vikki-Kli/conscience) - REST приложение для соцсети, над которым я работаю в команде. Использован Swagger для подготовки API для фронтенда.
-- [Later](https://github.com/Vikki-Kli/Later) - REST приложение для сохранения ссылок - чтобы посмотреть их "позже". Это приложение на чистом Spring Framework - без Boot.
-- [Algorithms](https://github.com/Vikki-Kli/Algorithms-and-logic) - здесь лежат мои решения различных контестов, можно оценить стройность кода и алгоритмическое мышление.
-- [Monsters' game](https://github.com/Vikki-Kli/monsters-game) - одно из тестовых, которое внезапно разрослось в заготовку для игры. Реализован консольный интерфейс.
-- [Hangman](https://github.com/Vikki-Kli/Hangman) - игра в виселицу на Java Core. Иногда нужно написать что-то простое, чтобы отвлечься :)
+- [Conscience](https://github.com/Vikki-Kli/conscience) - REST приложение для соцсети, над которым я работаю в команде. Джентельменский набор: Spring Boot + Hibernate + PostgreSQL. Использован Swagger для подготовки API для фронтенда и Docker для деплоя.
+- [Later](https://github.com/Vikki-Kli/Later) - REST приложение для сохранения ссылок, чтобы посмотреть их "позже". Здесь можно увидеть, как я работаю на чистом Spring Framework, без Boot.
+- [Big Data](https://github.com/Vikki-Kli/big-data) - приложение на Java Core для обработки больших данных - можно оценить, как я распоряжаюсь ресурсами :)
+- [Monsters' game](https://github.com/Vikki-Kli/monsters-game) - просто одно из веселых тестовых, внезапно разросшееся в игру с консольным интерфейсом.
 
 ---
 
